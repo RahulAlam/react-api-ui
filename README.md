@@ -1,4 +1,4 @@
-This project is hosted Freely in netlify : https://hungry-wing-99517b.netlify.com/
+This project is hosted Freely in netlify : https://cocky-varahamihira-abd9ad.netlify.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
