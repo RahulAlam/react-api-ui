@@ -42,6 +42,25 @@ export default class RecepieList extends Component {
                 );
               })
             )}
+  
+            <div className="container">
+              <h1>
+                This is a api fetch project using{" "}
+                <strong className="text-danger text-slanted">ReactJS</strong>
+              </h1>
+              <h4>
+                The source code of this project is available in github :
+                <a
+                  href="https://github.com/RahulAlam/react-api-ui"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  GITHUB LINK Click Here
+                </a>
+              </h4>
+              <h5>v2.0 Is Coming soon With database and django Backend</h5>
+              <h6>contact me : tempfemp@gmail.com </h6>
+            </div>
           </div>
         </div>
       </React.Fragment>
