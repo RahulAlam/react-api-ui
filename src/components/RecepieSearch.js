@@ -11,6 +11,9 @@ export default class RecepieSearch extends Component {
               <h1 className="text-slanted text-capitalize">
                 search for Recepie with{" "}
                 <strong className="text-danger">Food2Fork</strong>
+      <h6 className="text-danger text-slanted">
+                  <strong>v 1.0</strong>
+                </h6>
               </h1>
               <form className="mt-4" onSubmit={handleSubmit}>
                 <label htmlFor="search" className="text-capitalize">
